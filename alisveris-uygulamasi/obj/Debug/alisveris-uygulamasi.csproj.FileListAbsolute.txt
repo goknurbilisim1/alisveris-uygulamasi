@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\bin\Debug\alisveris-uygulamasi.exe.config
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\bin\Debug\alisveris-uygulamasi.exe
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\bin\Debug\alisveris-uygulamasi.pdb
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris-uygulamasi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris-uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris_uygulamasi.Form1.resources
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris_uygulamasi.Properties.Resources.resources
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris-uygulamasi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris-uygulamasi.exe
+C:\Users\User\source\repos\alisveris-uygulamasi\alisveris-uygulamasi\obj\Debug\alisveris-uygulamasi.pdb
